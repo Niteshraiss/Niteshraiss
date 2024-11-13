@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niteshraiss
-- 👀 I’m interested in designing and learning new stuff
-- 🌱 I’m currently doing Mtech 
+- 👀 Fond of designing and developing webapps
+- 🌱 Completed Mtech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  instagram @nitesh_rais
