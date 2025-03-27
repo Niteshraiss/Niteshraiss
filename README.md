@@ -7,10 +7,10 @@ I'm passionate about designing and developing web applications. With a Master's 
 Here are some of the projects I've developed using Laravel:
 
 1. [Mountain Drawer](https://mountaindrawer.com/)  
-   *A blog site sharing insights on Laravel development, travel adventures, gaming strategies, and life tips.* :contentReference[oaicite:2]{index=2}
+   *A blog site sharing insights on Laravel development, travel adventures, gaming strategies, and life tips.* 
 
 2. [Vrindavan Resort Sikkim](https://vrindavanresortsikkim.com/)  
-   *The official website for Vrindavan Resort in Sikkim, offering visitors a glimpse into a serene retreat amidst nature.* :contentReference[oaicite:3]{index=3}
+   *The official website for Vrindavan Resort in Sikkim, offering visitors a glimpse into a serene retreat amidst nature.* 
 
 ## 🤝 Collaboration
 
